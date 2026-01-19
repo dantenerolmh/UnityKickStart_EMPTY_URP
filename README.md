@@ -2,7 +2,7 @@
 
 Unity 6000.0.64f1
 
-Builtin RP
+URP
 
 空白模板预装插件
 
