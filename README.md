@@ -1,4 +1,4 @@
-# UnityKickStart\_EMPTY
+# UnityKickStar_EMPTY—URP
 
 Unity 6000.0.64f1
 
